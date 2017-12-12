@@ -1,6 +1,6 @@
 import threading
 import socket
-
+#Node 1
 
 class chatroom(threading.Thread):
 	def __init__(self,hostip,sendport):
